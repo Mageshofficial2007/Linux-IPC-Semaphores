@@ -124,9 +124,11 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
 ![](img/sem.o.png)
 
 $ ipcs
+
 ![](img/sem.o2.png)
 
 
