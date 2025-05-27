@@ -129,7 +129,7 @@ $ ./sem.o
 
 $ ipcs
 
-![](img/sem.o2.png)
+![](img/Screenshot%20at%202025-05-27%2008-29-16.png)
 
 
 # RESULT:
